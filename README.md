@@ -47,15 +47,15 @@
 
 These are hands-on projects I built to deepen my understanding of modern tools and architectures. While not production-ready, they reflect real-world patterns and practical implementations.
 
-- **Chatty**  
+- **[Chatty](https://github.com/vAraanty/chatty)**  
   Real-time messaging app built with Rails 8 + Hotwire. Explores Turbo Streams, Stimulus, Auth0 authentication, OpenSearch for chat history search, and Stripe for subscription logic.
   Goal: Deepen practical experience with real-time Rails and third-party integrations.
 
-- **Auto Parts Marketplace**  
+- **[Flashcards API](https://github.com/vAraanty/flashcards-api)**  
   A GraphQL-based Rails API for managing flashcard decks and cards (CRUD).
   Goal: Learn GraphQL schema design, mutations, and working with structured APIs in Rails.
 
-- **Weapons Marketplace**  
+- **[Flashcards Frontend](https://github.com/vAraanty/flashcards-frontend)**  
   A responsive flashcard study app built with Next.js, TypeScript, and GraphQL.
   Goal: Explore React, Next.js, API integration, and modern frontend patterns with TypeScript.
 
