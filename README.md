@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vadym
 
-🎯 **Actively seeking new opportunities** as a Ruby on Rails developer with 3.5+ years of experience, including tech leadership, mentorship, and full-stack delivery. I've led up to 3 projects at once, shaped architecture, mentored 7 developers, and built real-world features across healthcare, marketplaces, and logistics.
+🎯 **Actively seeking new opportunities** as a Ruby on Rails developer with almost 4 years of experience, including tech leadership, mentorship, and full-stack delivery. I've led up to 3 projects at once, shaped architecture, mentored 7 developers, and built real-world features across healthcare, marketplaces, and logistics.
 
 ---
 
